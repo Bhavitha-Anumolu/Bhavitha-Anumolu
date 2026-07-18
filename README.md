@@ -83,7 +83,7 @@ An AI-powered assistant designed to analyze biomedical datasets and assist resea
 
 ---
 
-📚 **Student Study Planner**
+### 📚 Student Study Planner
 
 A Streamlit-based productivity application designed to help students plan, manage, and monitor their academic activities. The application provides task management, progress tracking, and visual analytics features to improve study organization and productivity.
 
