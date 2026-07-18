@@ -89,6 +89,8 @@ A Streamlit-based productivity application designed to help students plan, manag
 
 Tech Stack: Python, Streamlit, Pandas, Matplotlib, Data Visualization, CSV Storage, Git, GitHub
 
+---
+
 ## 📜 Certifications
 
 * NASSCOM – Generative AI Literacy
